@@ -1,6 +1,8 @@
 # PolarProxy-x-INetSim
 Add MiTM capability for malware analysis environment 
 
+<!-- display-subdirectories: false -->
+
 ## Configuration Steps
 
 Just follow the steps and everything will work as shown
